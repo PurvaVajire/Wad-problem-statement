@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 799,
+      "image": "https://www.theaudiostore.in/cdn/shop/files/sony-wh-ult900n-ult-wear-active-noise-canceling-wireless-headphones-black-43213146423551.webp?v=1744396381"
+    },
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/61j3wQheLXL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQFG_UZ5hO8TY-V6UjUQTYRRLFNIOQGCNUg&s"
+    }
+  ]
+  

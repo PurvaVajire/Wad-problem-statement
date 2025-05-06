@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "salary": 80000,
+        "image": "https://example.com/images/john_doe.jpg"
+    },
+    {
+        "name": "Jane Smith",
+        "position": "Product Manager",
+        "department": "Product",
+        "salary": 95000,
+        "image": "https://example.com/images/jane_smith.jpg"
+    },
+    {
+        "name": "Alice Johnson",
+        "position": "UX Designer",
+        "department": "Design",
+        "salary": 70000,
+        "image": "https://example.com/images/alice_johnson.jpg"
+    },
+    {
+        "name": "Bob Brown",
+        "position": "Data Scientist",
+        "department": "Data Science",
+        "salary": 90000,
+        "image": "https://example.com/images/bob_brown.jpg"
+    }
+]

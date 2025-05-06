@@ -1,0 +1,10 @@
+{
+    "Pune": { "temperature": 30, "humidity": 50, "condition": "Sunny" },
+    "Mumbai": { "temperature": 28, "humidity": 70, "condition": "Cloudy" },
+    "Delhi": { "temperature": 35, "humidity": 40, "condition": "Hot" },
+    "Bangalore": { "temperature": 25, "humidity": 60, "condition": "Rainy" },
+    "Sangli": { "temperature": 32, "humidity": 55, "condition": "Partly Cloudy"},
+    "Nashik": { "temperature": 32, "humidity": 55, "condition": "Partly Cloudy"},
+    "Akola": { "temperature": 32, "humidity": 55, "condition": "Sunny"
+}
+}
